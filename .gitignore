@@ -1,3 +1,4 @@
 *.class
 desktop.ini
-target/
+target/*
+!target/*.jar

@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>net.sourgeforge.jlatexit</groupId>
-  <artifactId>JLatexIt</artifactId>
-  <version>1.0</version>
+  <artifactId>jlatexit</artifactId>
+  <version>0.1</version>
   <packaging>jar</packaging>
 
-  <name>JLatexIt</name>
+  <name>JLaTeXiT</name>
   <url>http://maven.apache.org</url>
 
   <properties>
