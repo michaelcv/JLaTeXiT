@@ -1,6 +1,6 @@
 # JLaTeXiT
 
-![Preview](https://github.com/michaelcv/JLaTeXiT/resources/screenshots/jlatexit-0.1.png)
+![Preview](https://raw.githubusercontent.com/michaelcv/JLaTeXiT/master/resources/screenshots/jlatexit-0.1.png)
 
 ##What is it?
 `JLaTeXiT` is an example of use of the [JLaTeXMath](http://forge.scilab.org/index.php/p/jlatexmath/) library.<br/>
