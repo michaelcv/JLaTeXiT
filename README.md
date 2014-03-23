@@ -1,5 +1,7 @@
 # JLaTeXiT
 
+![Preview](https://github.com/michaelcv/JLaTeXiT/resources/screenshots/jlatexit-0.1.png)
+
 ##What is it?
 `JLaTeXiT` is an example of use of the [JLaTeXMath](http://forge.scilab.org/index.php/p/jlatexmath/) library.<br/>
 It's purpose is to show how `LaTeX` math formulas can be displayed dynamically by using this library and provide a program similar to `LaTeXiT` from Mac for other operating systems.
